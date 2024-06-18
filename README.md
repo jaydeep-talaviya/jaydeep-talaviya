@@ -65,6 +65,12 @@
 </a> 
 </p>
 
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-talaviya&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&stroke=f53b3b&bg_color=151515">
+</p>
+
+
 ## Top Respositorys
   <p align="left">
    <a href="https://github.com/jaydeep-talaviya/portfolio_web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=portfolio_web&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
