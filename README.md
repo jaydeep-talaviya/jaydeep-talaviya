@@ -1,7 +1,7 @@
 ## Hi, I'm Jaydeep Talaviya 👋
 
 <p align="center">
-  <img src="Jaydeep_talaivya.png" alt="Jaydeep Talaviya" width="150" style="border-radius: 50%;" />
+  <img src="Jaydeep_talaivya.png" alt="Jaydeep Talaviya" width="200" style="border-radius: 50%; border: 4px solid #03adfc;" />
 </p>
 
 <p align="center">
@@ -113,19 +113,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Sustain (ERP Platform)** | Client-to-invoice lifecycle, risk approvals, financials for global consulting firm. Includes DIWE approval engine, Notification Engine (Azure Event Hub + CosmosDB), Sync Workers | `FastAPI` `Protean` `Celery` `Redis` `Azure SQL` `PostgreSQL` `CosmosDB` `Event Hub` `Next.js` |
-| **Symbiosys** | Multi-channel ad campaign management (Google, Meta, Bing, Pinterest) with BigQuery reporting | `FastAPI` `BigQuery` `MySQL` `GCP` |
-| **Evopay** | Parking management platform for malls in Kenya — mobile payments, admin, voucher management | `Django` `DRF` `PostgreSQL` `Bootstrap` |
-| **FileTransfer** | Secure large-file sharing with drag-drop, multi-email, auto-expiry, ZIP downloads | `Django` `Dropzone.js` `Bootstrap` |
-| **Utility Renewals (Odoo)** | Gas/water/power resource management, contracts, renewals, usage enquiries | `Odoo` `CRM` `Sales` `Website` |
-| **Maintenance Management (Odoo)** | Workflows for maintenance sales, purchases, inventory, warehouse allocation | `Odoo` `Inventory` `Maintenance` `Purchase` |
 
 ---
 
