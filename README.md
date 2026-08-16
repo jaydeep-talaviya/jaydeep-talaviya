@@ -1,7 +1,7 @@
 ## Hi, I'm Jaydeep Talaviya 👋
 
 <p align="center">
-  <img src="jaydeep_talaviya.jpeg" alt="Jaydeep Talaviya" width="150" style="border-radius: 50%;" />
+  <img src="Jaydeep_talaivya.png" alt="Jaydeep Talaviya" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
