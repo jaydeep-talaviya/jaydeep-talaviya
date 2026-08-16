@@ -106,14 +106,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jaydeep-talaviya&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&title_color=03adfc&icon_color=03adfc&text_color=c9c9c9" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-talaviya&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=151515&title_color=03adfc&text_color=c9c9c9" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jaydeep-talaviya&hide_border=true&show_icons=true&theme=tokyonight&count_private=false" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-talaviya&theme=tokyonight&hide_border=true&layout=compact&count_private=false" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaydeep-talaviya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=dark&hide_border=true&stroke=03adfc&background=151515&ring=03adfc&fire=03adfc&currStreakLabel=03adfc" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
