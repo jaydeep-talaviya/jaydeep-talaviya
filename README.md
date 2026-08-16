@@ -1,6 +1,10 @@
 ## Hi, I'm Jaydeep Talaviya 👋
 
 <p align="center">
+  <img src="jaydeep_talaviya.jpeg" alt="Jaydeep Talaviya" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Python+Developer;5%2B+Years+Experience;Full+Stack+%7C+Backend+%7C+Cloud;Building+Scalable+Systems&font=Fira+Code&center=true&width=700&height=45&color=142847&vCenter=true&pause=1000&size=25" />
 </p>
 
