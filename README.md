@@ -1,89 +1,123 @@
-## Introduction
-![logo](https://raw.githubusercontent.com/jaydeep-talaviya/jaydeep-talaviya/main/JAYDEEP_TALAVIYA.png)
+## Hi, I'm Jaydeep Talaviya 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=142847&vCenter=true&pause=1000&size=25" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Python+Developer;5%2B+Years+Experience;Full+Stack+%7C+Backend+%7C+Cloud;Building+Scalable+Systems&font=Fira+Code&center=true&width=700&height=45&color=142847&vCenter=true&pause=1000&size=25" />
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://jaytalaviya.in/">Jaydeep Talaviya</a></h3>
+<h3 align="center">
+  <a href="https://jaytalaviya.in/">Portfolio</a> •
+  <a href="mailto:jaydeeptalaviya7@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jaydeep-talaviya-540901195">LinkedIn</a> •
+  <a href="https://github.com/jaydeep-talaviya">GitHub</a>
+</h3>
 
-<h5 align="center">Here are a few links to visit and some statistics to review</h5>
+---
+
+### 🚀 About Me
+
+**Senior Python Developer** with **5+ years** of experience building scalable backend systems, microservices, and full-stack applications. Currently at **Upforce Tech** (Jan 2025 – present), previously at 9series Solutions, SecureMetaSys, and Techultra Solutions.
+
+- 🔭 **Currently**: Building ERP platforms with microservices architecture (FastAPI, Protean, Azure, React/Next.js)
+- 🌱 **Learning**: Advanced AWS, Kubernetes, System Design, ML Engineering
+- 👯 **Open to**: Collaborating on high-scale backend systems, developer tools, cloud-native apps
+- 💬 **Ask me about**: Python, Django, DRF, FastAPI, Microservices, Event-Driven Architecture, PostgreSQL, React
+- ⚡ **Fun fact**: History enthusiast — love exploring random facts about cultures and civilizations
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+
+**Backend & Frameworks**  
+`Django` `Django REST Framework` `FastAPI` `Protean (DDD)` `Flask` `Odoo`
+
+**Frontend**  
+`React` `Next.js` `Redux` `Bootstrap` `Material UI` `jQuery`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `SQLite` `BigQuery` `Azure SQL` `CosmosDB`
+
+**Cloud & DevOps**  
+`AWS` `Azure` `GCP` `Docker` `Kafka` `Redis` `Celery` `Git` `Linux` `GitHub Actions` `Heroku` `Vercel`
+
+**Architecture & Patterns**  
+Microservices • Event-Driven Systems • REST/GraphQL APIs • WebSockets • Background Jobs • Caching • JWT/OAuth • OpenAPI/Swagger • DDD
+
+**Data & ML**  
+`Pandas` `NumPy` `BeautifulSoup` `Scikit-learn` `TensorFlow` (familiar)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:jaydeeptalaviya8@gmail.com" target="_blank"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://t.me/Jay_talaviya" target="_blank"><img alt="Discord" title="Telegram" src="https://img.shields.io/badge/-Telegram-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jaydeep-talaviya-540901195" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/25453805/jaydeep-talaviya" target="_blank"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.facebook.com/jaydeeptalaviya.jaydeeptalaviya" target="_blank"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1976d2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jay_talaviya_99/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jaydeep-talaviya&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&title_color=03adfc&icon_color=03adfc&text_color=c9c9c9" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-talaviya&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=151515&title_color=03adfc&text_color=c9c9c9" />
 </p>
-
- 
-## Profile Views
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/jaydeep-talaviya"> <img src="https://komarev.com/ghpvc/?username=jaydeep-talaviya&style=for-the-badge&color=blue"> </a>
-      </td>
-    </tr>
-  </table>
-
-## What I'm Doing
-
-- 🔭 I am currently working on **Developing a dynamic web application integrating Django, Django REST Framework, FastAPI, React.js, PostgreSQL, and MySQL to create a robust and scalable backend architecture.**
-
-- 🌱 I’m currently learning **ML, DevOps, AWS** & more
-
-- 👯 I’m looking to collaborate on **Innovative web development projects that push the boundaries of technology and user experience. Particularly interested in collaborations that aim to solve real-world problems through cutting-edge web applications.**
-
-- 🤝 I’m looking for help with **Optimizing database performance and exploring cutting-edge technologies to elevate project efficiency.**
-
-- 💬 Ask me about **Software Engineer | Full Stack | React Js | Python | Django | DRF | FastApi | Postgresql | MySql**
-
-- 📫 How to reach me **jaydeeptalaviya7@gmail.com**
-
-- ⚡ Fun fact **Despite my deep dive into code and digital solutions, I’m an avid history enthusiast. Exploring random facts and learning about different cultures and diversity offers a refreshing counterbalance to the structured realm of software development.**
-
-## Languages and Tools
-
-<p align="left"><a href="https://github.com/jaydeep-talaviya"><img src="https://skillicons.dev/icons?i=vscode,pycharm,github,git,python,django,fastapi,flask,html,css,js,jquery,react,redux,ts,npm,mysql,postman,ubuntu"> </a> </p>
-
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=jaydeep-talaviya&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/jaydeep-talaviya">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+  <a href="https://github.com/jaydeep-talaviya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=dark&hide_border=true&stroke=03adfc&background=151515&ring=03adfc&fire=03adfc&currStreakLabel=03adfc" alt="GitHub Streak" />
+  </a>
 </p>
 
-## My Stats:
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Sustain (ERP Platform)** | Client-to-invoice lifecycle, risk approvals, financials for global consulting firm. Includes DIWE approval engine, Notification Engine (Azure Event Hub + CosmosDB), Sync Workers | `FastAPI` `Protean` `Celery` `Redis` `Azure SQL` `PostgreSQL` `CosmosDB` `Event Hub` `Next.js` |
+| **Symbiosys** | Multi-channel ad campaign management (Google, Meta, Bing, Pinterest) with BigQuery reporting | `FastAPI` `BigQuery` `MySQL` `GCP` |
+| **Evopay** | Parking management platform for malls in Kenya — mobile payments, admin, voucher management | `Django` `DRF` `PostgreSQL` `Bootstrap` |
+| **FileTransfer** | Secure large-file sharing with drag-drop, multi-email, auto-expiry, ZIP downloads | `Django` `Dropzone.js` `Bootstrap` |
+| **Utility Renewals (Odoo)** | Gas/water/power resource management, contracts, renewals, usage enquiries | `Odoo` `CRM` `Sales` `Website` |
+| **Maintenance Management (Odoo)** | Workflows for maintenance sales, purchases, inventory, warehouse allocation | `Odoo` `Inventory` `Maintenance` `Purchase` |
+
+---
+
+### 💼 Experience
+
+**Upforce Tech** — *Python Developer* (Jan 2025 – Present)  
+Building microservices-based ERP platform (Sustain) with FastAPI, Protean (DDD), Azure stack
+
+**9series Solutions** — *Python Developer* (Jan 2023 – Jul 2024)  
+Campaign management platform (Symbiosys), BigQuery integration, GCP deployment
+
+**SecureMetaSys Infotech** — *Full Stack Developer* (May 2022 – Jan 2023)  
+React + Django full-stack development, payment integrations
+
+**Techultra Solutions** — *Python/Odoo Developer* (Feb 2021 – Apr 2022)  
+Odoo customization for utility & maintenance management modules
+
+---
+
+### 📜 Certifications
+
+- Python for Everybody Specialization — University of Michigan (Coursera)
+- Django for Everybody Specialization — University of Michigan (Coursera)
+- How Google Does Machine Learning — Google Cloud (Coursera)
+
+---
+
+### 📫 Let's Connect
+
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-talaviya&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&stroke=f53b3b&bg_color=151515">
+  <a href="mailto:jaydeeptalaviya7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaydeep-talaviya-540901195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jaytalaviya.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jaydeep-talaviya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/25453805/jaydeep-talaviya"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
+---
 
-## Top Respositorys
-  <p align="left">
-   <a href="https://github.com/jaydeep-talaviya/portfolio_web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=portfolio_web&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/jaydeep-talaviya/Blink_v1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=Blink_v1&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/jaydeep-talaviya/youtransfer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=youtransfer&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/jaydeep-talaviya/villa_explorer_pros"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=villa_explorer_pros&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/jaydeep-talaviya/cryptoapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=cryptoapp&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/jaydeep-talaviya/Luna_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=Luna_frontend&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/jaydeep-talaviya/Color-Palette_Reactjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaydeep-talaviya&repo=Color-Palette_Reactjs&theme=react&bg_color=1F222E&title_color=#03adfc&hide_border=true&icon_color=#03adfc&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaydeep-talaviya/jaydeep-talaviya/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaydeep-talaviya/jaydeep-talaviya/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaydeep-talaviya&style=for-the-badge&color=03adfc&label=Profile+Views" />
+</p>
